@@ -8,7 +8,7 @@ STAssn
 上传是为了纪念曾经制作过这样一个课程项目。       
 
 
-Declaration: This project was completed by an individual, STAssn, but submitted as a group assignment.         
+Declaration: This project was completed by STAssn, but submitted as a group assignment.         
 
 
 PS:       
