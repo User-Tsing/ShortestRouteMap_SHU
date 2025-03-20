@@ -8,8 +8,11 @@ STAssn
 上传是为了纪念曾经制作过这样一个课程项目。       
 
 
+Declaration: This project was completed by an individual, STAssn, but submitted as a group assignment.         
+
+
 PS:       
 List of participants:         
 Directed by STAssn(C);         
-Partner: C Wu, Y Yang, M Li, C Ch'ang         
+Partners: C Wu, Y Yang, M Li, C Ch'ang         
 （为了避免不必要的麻烦，以上皆为化名）
